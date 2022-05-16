@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @vb1152. I live in Kyiv, Ukraine.  
 - 📫 How to reach me vasya.bilich@gmail.com
 
 <!---
